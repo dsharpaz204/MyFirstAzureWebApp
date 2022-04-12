@@ -1,0 +1,7 @@
+/home/dmitry/Programming/AzureLabs/MyFirstAzureWebApp/bin/Release/net6.0/publish/MyFirstAzureWebApp
+/home/dmitry/Programming/AzureLabs/MyFirstAzureWebApp/bin/Release/net6.0/publish/appsettings.Development.json
+/home/dmitry/Programming/AzureLabs/MyFirstAzureWebApp/bin/Release/net6.0/publish/appsettings.json
+/home/dmitry/Programming/AzureLabs/MyFirstAzureWebApp/bin/Release/net6.0/publish/MyFirstAzureWebApp.dll
+/home/dmitry/Programming/AzureLabs/MyFirstAzureWebApp/bin/Release/net6.0/publish/MyFirstAzureWebApp.deps.json
+/home/dmitry/Programming/AzureLabs/MyFirstAzureWebApp/bin/Release/net6.0/publish/MyFirstAzureWebApp.runtimeconfig.json
+/home/dmitry/Programming/AzureLabs/MyFirstAzureWebApp/bin/Release/net6.0/publish/MyFirstAzureWebApp.pdb
